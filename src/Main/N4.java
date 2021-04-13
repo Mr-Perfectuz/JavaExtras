@@ -13,5 +13,7 @@ public class N4 {
         arrayInt[1] = number;
         System.out.println(" array is { "+ arrayInt[0]+" : "+ arrayInt[1]+ "}");
 
+
+
     }
 }
