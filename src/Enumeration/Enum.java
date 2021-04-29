@@ -34,7 +34,5 @@ public class Enum {
 
         System.out.println("Numer of Upper latters is: " + numberOfUpperCase);
 
-
-
     }
 }
